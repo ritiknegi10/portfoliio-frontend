@@ -22,7 +22,7 @@ function Intro() {
           className="group border border-secondary font-bold shadow-md transition duration-300  hover:bg-secondary text-secondary hover:text-white px-10 py-5 rounded-lg"
           onClick={() =>
             window.open(
-              "https://app.enhancv.com/share/3247d921/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic",
+              "https://drive.google.com/file/d/1w3NasoCTWWZW67-ARuwUX3kNFi_nwMcs/view",
               "_blank"
             )
           }
